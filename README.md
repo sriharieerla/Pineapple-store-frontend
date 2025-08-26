@@ -24,7 +24,3 @@ flowchart TD
     A[index.html] --> B[style.css: UI Styles]
     A --> C[script.js: Functionality]
     A --> D[assets/: Images & Icons]
-
-    B --> B1[Navbar, Hero, Sections]
-    C --> C1[Theme toggle, Animations, Events]
-    D --> D1[Logos, Icons, Illustrations]
