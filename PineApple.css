@@ -440,27 +440,3 @@ th {
     background-color: black;
   }
 }
-/* Tablet Ipad*/
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-  body {
-    background-color: white;
-  }
-  h1 {
-    color: black;
-  }
-}
-/* Desktops and Laptops*/
-@media screen and(min-width:1224px) and (max-width: 1823) {
-  body {
-    background-color: black;
-  }
-}
-/* Large Scren*/
-@media screen and(min-width:1824px) {
-  body {
-    background-color: white;
-  }
-  h1 {
-    color: black;
-  }
-}
